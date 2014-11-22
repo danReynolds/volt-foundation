@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Make sure to throw `component 'foundation'` in `dependencies.b` and you should be good to go!
 
 ## Contributing
 
